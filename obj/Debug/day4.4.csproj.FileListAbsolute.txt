@@ -1,0 +1,8 @@
+D:\day-4\day4.4\day4.4\bin\Debug\day4.4.exe.config
+D:\day-4\day4.4\day4.4\bin\Debug\day4.4.exe
+D:\day-4\day4.4\day4.4\bin\Debug\day4.4.pdb
+D:\day-4\day4.4\day4.4\obj\Debug\day4.4.csproj.AssemblyReference.cache
+D:\day-4\day4.4\day4.4\obj\Debug\day4.4.csproj.SuggestedBindingRedirects.cache
+D:\day-4\day4.4\day4.4\obj\Debug\day4.4.csproj.CoreCompileInputs.cache
+D:\day-4\day4.4\day4.4\obj\Debug\day4.4.exe
+D:\day-4\day4.4\day4.4\obj\Debug\day4.4.pdb
